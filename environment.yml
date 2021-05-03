@@ -1,0 +1,8 @@
+name: bulweb_ecf
+channels:
+  - https://nexus.mercator-ocean.fr/repository/conda-proxy/main
+  - defaults
+dependencies:
+  - python=3.9
+  - psycopg2=2.8.6
+  - configobj=5.0.6

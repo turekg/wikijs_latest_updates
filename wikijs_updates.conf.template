@@ -1,0 +1,7 @@
+# Template config file for wikijs_updates.py
+dbhost=                      # hostname where db lives
+dbname=                      # db name
+dbuser=                      # db user name (read only ideally)
+dbpwd=                       # db user password
+commit_message=              # git commit message
+md_file=                     # git repo path of output file
